@@ -1,0 +1,3 @@
+Hello, this is file PQR.
+It contains some sample text.
+We will append this into xyz.txt.

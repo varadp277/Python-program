@@ -1,0 +1,2 @@
+This is Data of python program .
+Here data is in a second line.
